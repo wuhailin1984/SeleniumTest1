@@ -1,0 +1,46 @@
+2018-04-25 15:54:41  [tests.PercentCalculator] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2018-04-25 15:54:41  [tests.PercentCalculator] (main:) TEST Has Started
+2018-04-25 15:54:55  [tests.PercentCalculator] (main:) Open Calc Application
+2018-04-25 15:54:56  [tests.PercentCalculator] (main:) Clicked Math Calculator Link
+2018-04-25 15:54:59  [tests.PercentCalculator] (main:) Clicked Percent Calculator Link
+2018-04-25 15:55:01  [tests.PercentCalculator] (main:) Entered Value into First Text Box
+2018-04-25 15:55:02  [tests.PercentCalculator] (main:) Entered Value into Second Text Box
+2018-04-25 15:55:02  [tests.PercentCalculator] (main:) Click Calculate Button
+2018-04-25 15:55:04  [tests.PercentCalculator] (main:) Get Text Value
+2018-04-25 15:55:04  [tests.PercentCalculator] (main:)  The Result is 5
+2018-04-25 15:55:04  [tests.PercentCalculator] (main:) The Result is Pass
+2018-04-25 15:55:04  [tests.PercentCalculator] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2018-04-25 15:57:18  [tests.PercentCalculator] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2018-04-25 15:57:18  [tests.PercentCalculator] (main:) TEST Has Started
+2018-04-25 15:57:30  [tests.PercentCalculator] (main:) Open Calc Application
+2018-04-25 15:57:30  [tests.PercentCalculator] (main:) Clicked Math Calculator Link
+2018-04-25 15:57:32  [tests.PercentCalculator] (main:) Clicked Percent Calculator Link
+2018-04-25 15:57:33  [tests.PercentCalculator] (main:) Entered Value into First Text Box
+2018-04-25 15:57:35  [tests.PercentCalculator] (main:) Entered Value into Second Text Box
+2018-04-25 15:57:35  [tests.PercentCalculator] (main:) Click Calculate Button
+2018-04-25 15:57:37  [tests.PercentCalculator] (main:) Get Text Value
+2018-04-25 15:57:37  [tests.PercentCalculator] (main:)  The Result is 5
+2018-04-25 15:57:37  [tests.PercentCalculator] (main:) The Result is Pass
+2018-04-25 15:57:37  [tests.PercentCalculator] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2018-04-25 22:33:04  [tests.PercentCalculator] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2018-04-25 22:33:04  [tests.PercentCalculator] (main:) TEST Has Started
+2018-04-25 22:33:14  [tests.PercentCalculator] (main:) Open Calc Application
+2018-04-25 22:33:15  [tests.PercentCalculator] (main:) Clicked Math Calculator Link
+2018-04-25 22:33:16  [tests.PercentCalculator] (main:) Clicked Percent Calculator Link
+2018-04-25 22:33:19  [tests.PercentCalculator] (main:) Entered Value into First Text Box
+2018-04-25 22:33:20  [tests.PercentCalculator] (main:) Entered Value into Second Text Box
+2018-04-25 22:33:20  [tests.PercentCalculator] (main:) Click Calculate Button
+2018-04-25 22:33:23  [tests.PercentCalculator] (main:) Get Text Value
+2018-04-25 22:33:23  [tests.PercentCalculator] (main:)  The Result is 5
+2018-04-25 22:33:23  [tests.PercentCalculator] (main:) The Result is Pass
+2018-04-25 22:33:23  [tests.PercentCalculator] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2018-04-26 09:59:37  [tests.PercentCalculator] (main:) Clicked Math Calculator Link
+2018-04-26 09:59:39  [tests.PercentCalculator] (main:) Clicked Percent Calculator Link
+2018-04-26 09:59:43  [tests.PercentCalculator] (main:) Entered Value into First Text Box
+2018-04-26 09:59:44  [tests.PercentCalculator] (main:) Entered Value into Second Text Box
+2018-04-26 09:59:45  [tests.PercentCalculator] (main:) Click Calculate Button
+2018-04-26 10:34:22  [tests.PercentCalculator] (main:) Clicked Math Calculator Link
+2018-04-26 10:34:24  [tests.PercentCalculator] (main:) Clicked Percent Calculator Link
+2018-04-26 10:34:27  [tests.PercentCalculator] (main:) Entered Value into First Text Box
+2018-04-26 10:34:30  [tests.PercentCalculator] (main:) Entered Value into Second Text Box
+2018-04-26 10:34:31  [tests.PercentCalculator] (main:) Click Calculate Button
